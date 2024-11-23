@@ -14,7 +14,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/samjwhu/affordable-housing-risk-assessment.git
+git clone https://github.com/Affordable-Housing-Risk-Assessment-and-Demand-Prediction.git
 cd affordable-housing-risk-assessment
 Create a Virtual Environment (Optional but Recommended)
 
